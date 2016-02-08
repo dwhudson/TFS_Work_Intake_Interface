@@ -1,0 +1,62 @@
+DPS Tutor Matching MVC or SPA
+
+Tutor
+	Profile
+		specialities
+		Bio
+		Core Subjects
+		Extra specialities
+		availability
+	
+	define subjects
+	time blocks
+	
+Student
+	Profile	
+		subjects
+		major/needs
+		other interests
+		availability
+		
+	time blocks
+	subjects
+	
+Calendar Scheduling
+	automatic reminder
+	adds to calendar
+	check in ahead/confirmation
+	
+Program
+	Matching
+	Scheduling
+	forum/messaging (future)
+	hour tracking (future)
+	volunteer time sheet form
+	
+Match System
+	time
+	speciality
+	automated match
+	display few options
+
+DPS AD login for verification
+
+Master list
+	subject list (master)
+	CRUD
+	Admin interface
+	
+Database
+	Subjects
+	Roles
+	Time blocks
+	tutor
+	name
+	student
+	bio
+	admin
+
+Centralized subject repository
+
+
+	
