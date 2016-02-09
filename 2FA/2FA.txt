@@ -1,0 +1,29 @@
+TWO Facto Authentication (2FA):
+Time-based one-time password(TOTP)
+One-time password (OTP)
+
+Components:
+Google-authenticator
+In conjunction with SSH
+Password
+Phone
+HMAC function javascript (jsSHA library)
+Time-based one-time password(TOTP)
+Pluggable authentication module(PAM)
+
+
+
+Generally two-factor authentication schemes work by putting the user into an intermediary state using some form of sessions. 
+
+A user who has passed the first factor, say username/password via Basic Auth, has a session opened but not marked as really logged in until they also pass the second factor. Inputting a code or something like that. 
+
+Once both factors are passed their session is marked as fully logged in and they can access their account/data/whatever.
+
+1) Log in 
+	hook in - authentication
+2) AD authentication
+3) Continue
+
+AD where does it hook in?
+
+Include Jay & dave Steifel?
